@@ -8,8 +8,8 @@
   "cff_1_2_0_schema": "passed",
   "frozen_body_comparison": "passed",
   "format_sha256": {
-    "transcription.json": "9f8b9be83dcfd5589a16e90df0085de10a7c372ca44048902b83221764663cd6",
-    "transcription.txt": "cc57935bcdfd57a6e39ee5c55318d5ef685ad68ef1d53a97f8532d683aa9aab7",
-    "transcription.tei.xml": "9edb81f623f15308104ddf5487f21051a4dc26d70b0cad36a089e2c57d6f8280"
+    "transcription.json": "8c3175e7c034d2f66ff10f9efc433ae6372f384097cfd4a01541432f4b206143",
+    "transcription.txt": "d03ae80aafb6c3642d8e050cf6c657cf65fd3ccbb9447b76275ed169aa89279b",
+    "transcription.tei.xml": "bb71c6260a8b6d91c529e8eb6b6d71a61875b80c22332d03c9ab7cd2b06d5099"
   }
 }

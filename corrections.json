@@ -1,0 +1,77 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 3,
+  "changes": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "kind": "main",
+      "op": "replace",
+      "before": "云。。有一華人在馬克連埠居住。。已",
+      "after": "云。。有一華人在馬克邁埠居住。。已",
+      "reason": "回圖中見萬字格形及辵底，不見車中直骨，從第二讀。",
+      "source_bbox": [
+        1995,
+        191,
+        2375,
+        641
+      ],
+      "source_image_sha256": "8362876b5a10e0180fa6c7685bdf1c4d528f93665948672f1819ea741809b91e",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24101368"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 3,
+      "kind": "main",
+      "op": "replace",
+      "before": "歷十八個月。。近有患瘋疾之嫌疑。。",
+      "after": "歷十八圓月。。近有患瘋疾之嫌疑。。",
+      "reason": "回圖見方框連合、框內作員形，依第二讀；月數前二字部分磨失仍標。",
+      "source_bbox": [
+        1995,
+        191,
+        2375,
+        641
+      ],
+      "source_image_sha256": "8362876b5a10e0180fa6c7685bdf1c4d528f93665948672f1819ea741809b91e",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24101368"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 6,
+      "kind": "main",
+      "op": "replace",
+      "before": "悉其事。。未能於鐵車未抵步之前。。",
+      "after": "悉其事。。未能於該車未抵步之前。。",
+      "reason": "回圖左見言末口而無金旁下點，改該。",
+      "source_bbox": [
+        1995,
+        191,
+        2375,
+        641
+      ],
+      "source_image_sha256": "8362876b5a10e0180fa6c7685bdf1c4d528f93665948672f1819ea741809b91e",
+      "canvas": "https://trove.nla.gov.au/newspaper/page/24101368"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": 2,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24101368",
+      "status": "保留疑讀"
+    },
+    {
+      "image": 1,
+      "side": "single",
+      "column": 3,
+      "canvas_id": "https://trove.nla.gov.au/newspaper/page/24101368",
+      "status": "保留疑讀"
+    }
+  ],
+  "retained_readings": []
+}

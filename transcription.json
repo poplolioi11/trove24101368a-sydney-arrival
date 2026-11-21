@@ -2,14 +2,14 @@
   "metadata": {
     "work_key": "trove24101368a",
     "title": "瘋疾潛來雪梨",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "language": "lzh",
     "shelfmark": "Tung Wah Times, 1925-11-28, p. 7, NLA news-page24101368",
     "reading_order": "source columns, ordered as printed",
     "title_policy": "Stand-alone headings in extras, inline ones in their original column",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "瘋疾潛來雪梨（《東華報》1925-11-28 第7版，澳洲國家圖書館） / Feng ji qian lai Xueli [A Chinese Man Reported Travelling to Sydney]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -26,10 +26,10 @@
               "text": "十一月二十號。。本省加立頓埠消息"
             },
             {
-              "text": "云。。有一華人在馬克連埠居住。。已"
+              "text": "云。。有一華人在馬克邁埠居住。。已"
             },
             {
-              "text": "歷十八個月。。近有患瘋疾之嫌疑。。"
+              "text": "歷十八圓月。。近有患瘋疾之嫌疑。。"
             },
             {
               "text": "乃於昨日乘舟來加立頓。。轉搭火車"
@@ -38,7 +38,7 @@
               "text": "往雪梨。。該埠警察。。事後頗久。。始"
             },
             {
-              "text": "悉其事。。未能於鐵車未抵步之前。。"
+              "text": "悉其事。。未能於該車未抵步之前。。"
             },
             {
               "text": "通告雪梨當道檢拿云。。"
@@ -57,22 +57,22 @@
         {
           "side": "single",
           "column": 2,
-          "context": "馬克連埠",
+          "context": "馬克邁埠",
           "candidates": [
-            "馬克連埠",
-            "馬克蓮埠"
+            "馬克邁埠",
+            "馬克連埠"
           ],
-          "note": "末音譯字下筆墨密，按辵旁暫記。"
+          "note": "地方音譯末字墨重。"
         },
         {
           "side": "single",
           "column": 3,
-          "context": "十八個月",
+          "context": "十八圓月",
           "candidates": [
-            "十八個月",
+            "十八圓月",
             "十六個月"
           ],
-          "note": "月數兩字磨損，保留替讀。"
+          "note": "兩個數字仍有墨痕缺口，保留原欄初讀疑處。"
         }
       ],
       "observations": "第七版《本洲新聞》右上段首則，三角號及大字題目另欄，右往左七欄，末云後雙圈止。其後為另題種植新聞；本則原文只記調查與通報。",
